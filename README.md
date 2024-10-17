@@ -2,7 +2,7 @@
 
 I’m a full-stack web developer specializing in the MERN stack and developing skills in cloud computing services like AWS. With experience in both RESTful and GraphQL APIs, I have built scalable applications, following agile methodologies and collaborating with designers to deliver sleek, responsive designs.
 
-- 🌱 **Currently learning**: Cloud computing and DevOps tools
+- 🌱 **Currently learning**: Cloud computing, Dev Ops and AWS
 - 🚀 **Recent projects**: React PWA app, MERN-based schedule app with YouTube Data API
 - 🔗 **Portfolio**: [Garret Hildebrandt](https://garrethildebrandt.netlify.app/)
 
