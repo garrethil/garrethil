@@ -15,7 +15,7 @@ I’m a full-stack web developer specializing in the MERN stack and developing s
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,sequelize,mongodb, aws, react,tailwind,jest,markdown,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,sequelize,mongodb,aws,react,tailwind,jest,markdown,figma,git)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
