@@ -2,7 +2,7 @@
 
 I’m a full-stack web developer specializing in the MERN stack and developing skills in cloud computing services like AWS. With experience in both RESTful and GraphQL APIs, I have built scalable applications, following agile methodologies and collaborating with designers to deliver sleek, responsive designs.
 
-- 🌱 **Currently learning**: TypeScript and AWS technologies
+- 🌱 **Currently learning**: TypeScript and AWS S3 file storage solutions.
 - 🔗 **Portfolio**: [Garret Hildebrandt](https://garrethildebrandt.netlify.app/)
 
 
@@ -15,7 +15,7 @@ I’m a full-stack web developer specializing in the MERN stack and developing s
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,sequelize,mongodb,react,tailwind,jest,markdown,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,sequelize,mongodb, aws, react,tailwind,jest,markdown,figma,git)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
